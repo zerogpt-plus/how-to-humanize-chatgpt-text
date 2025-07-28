@@ -74,7 +74,7 @@ ChatGPT loves to use fancy words to sound authoritative. Your job is to replace 
 -   `ascertain` -> `find out`
 -   `myriad` -> `many`
 
-Clear, simple language is almost always more effective than complex jargon. This is a core tenet when you need to humanize ChatGPT text.
+Clear, simple language is almost always more effective than complex jargon. This is a core tenet when you need to humanize ChatGPT text. It helps to keep a running list of these robotic words. In fact, for a great head start, check out this guide on the [top words and phrases that scream 'AI-written'](https://www.zerogpt.plus/blog/top-words-and-phrases-used-by-ai-like-chatgpt/), which is an excellent checklist to use during your editing process.
 
 ### 7. Read Your Writing Aloud
 
